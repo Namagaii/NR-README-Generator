@@ -1,0 +1,54 @@
+[
+    {
+    "key": "agpl-3.0",
+    "html_url": "http://choosealicense.com/licenses/agpl-3.0/"
+    },
+    {
+    "key": "apache-2.0",
+    "html_url": "http://choosealicense.com/licenses/apache-2.0/"
+    },
+    {
+    "key": "bsd-2-clause",
+    "html_url": "http://choosealicense.com/licenses/bsd-2-clause/"
+    },
+    {
+    "key": "bsd-3-clause",
+    "html_url": "http://choosealicense.com/licenses/bsd-3-clause/"
+    },
+    {
+    "key": "bsl-1.0",
+    "html_url": "http://choosealicense.com/licenses/bsl-1.0/"
+    },
+    {
+    "key": "cc0-1.0",
+    "html_url": "http://choosealicense.com/licenses/cc0-1.0/"
+    },
+    {
+    "key": "epl-2.0",
+    "html_url": "http://choosealicense.com/licenses/epl-2.0/"
+    },
+    {
+    "key": "gpl-2.0",
+    "html_url": "http://choosealicense.com/licenses/gpl-2.0/"
+    },
+    {
+    "key": "gpl-3.0",
+    "html_url": "http://choosealicense.com/licenses/gpl-3.0/"
+    },
+    {
+    "key": "lgpl-2.1",
+    "html_url": "http://choosealicense.com/licenses/lgpl-2.1/"
+    },
+    {
+    "key": "mit",
+    "html_url": "http://choosealicense.com/licenses/mit/"
+    },
+    {
+    "key": "mpl-2.0",
+    "html_url": "http://choosealicense.com/licenses/mpl-2.0/"
+    },
+    {
+    "key": "unlicense",
+    "html_url": "http://choosealicense.com/licenses/unlicense/"
+    }
+]
